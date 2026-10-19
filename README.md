@@ -1,11 +1,3 @@
-# Getting Started with this code
-
-We require that all teams do their work for CS3733 Projects on a private repository in a Github Organization. 
-In order to turn this code into such a repository, please follow these instructions.
-
-https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository 
-
-
 # Important Files
 ## build.gradle / gradle.properties
 This is the gradle configuration file. Modify this file to add dependencies to your project. In
